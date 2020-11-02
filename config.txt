@@ -1,0 +1,6 @@
+search_string = https://www.youtube.com/watch?v=ppsvI66VE8o&t=4s&ab_channel=Shunya
+min_watch = 10
+max_watch = 15
+wait_after = None
+views = 100
+multicore = False
